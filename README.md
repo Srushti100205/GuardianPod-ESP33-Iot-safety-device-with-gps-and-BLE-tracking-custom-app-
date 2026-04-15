@@ -2,12 +2,13 @@
 ESP32-based IoT safety device with GPS tracking, BLE + WiFi communication, and real-time cloud alerts using ThingSpeak
 # GuardianPod – IoT Safety Device
 
-An ESP32-based real-time safety device designed for child and pet monitoring using GPS tracking and cloud integration.
+An ESP32-based real-time safety device designed for child and pet monitoring using GPS tracking and cloud integration.Enabling wireless communication and emergency alerts. 
 
 •Features
 - Real-time GPS tracking
 - BLE + Wi-Fi communication
 - Emergency alert system (LED + buzzer)
+- flutter based customized app for the    guardian 
 - Cloud integration using ThingSpeak
 
 •Technologies Used
@@ -16,6 +17,7 @@ An ESP32-based real-time safety device designed for child and pet monitoring usi
 - BLE, Wi-Fi
 - ThingSpeak API
 - GPS Module
+- flutter 
 
 •Hardware Components
 - ESP32
@@ -23,6 +25,15 @@ An ESP32-based real-time safety device designed for child and pet monitoring usi
 - Buzzer
 - LED
 - Push Button
+  
+•Applications
+- Child safety tracking
+- Pet monitoring
+- Personal safety device
 
+•Future Scope
+- Geofencing alerts
+- Battery optimization
+  
 • Description
 This project enables real-time location tracking and alert generation. The system uses BLE for short-range communication and Wi-Fi for cloud updates, ensuring efficient and low-latency monitoring.
