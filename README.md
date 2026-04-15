@@ -41,7 +41,7 @@ An ESP32-based real-time safety device designed for child and pet monitoring usi
 ![Hardware Setup]( Screenshot_2026-04-04-18-15-27-14_99c04817c0de5652397fc8b56c3b3817.jpg))
 
 ### Circuit / Connections
-![Circuit](.IMG20260316104457.jpg  )
+![Circuit](IMG20260316104457.jpg)
 
 ### Output / Working
 ![Output](Screenshot_2026-04-15-23-28-26-41_6431dcd7adc47d9b8b1ef172f656a796.jpg)
