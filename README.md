@@ -38,13 +38,14 @@ An ESP32-based real-time safety device designed for child and pet monitoring usi
 •Device Setup & Working
 
 ### Hardware Setup
-![Hardware Setup]( Screenshot_2026-04-04-18-15-27-14_99c04817c0de5652397fc8b56c3b3817.jpg))(
+![Hardware Setup]( Screenshot_2026-04-04-18-15-27-14_99c04817c0de5652397fc8b56c3b3817.jpg))
 
 ### Circuit / Connections
-![Circuit](PASTE_IMAGE_NAME_2_HERE)
+![Circuit](.  )
 
 ### Output / Working
-![Output](PASTE_IMAGE_NAME_3_HERE)
+![Output](Screenshot_2026-04-15-23-28-26-41_6431dcd7adc47d9b8b1ef172f656a796.jpg)
+
   
 • Description
 This project enables real-time location tracking and alert generation. The system uses BLE for short-range communication and Wi-Fi for cloud updates, ensuring efficient and low-latency monitoring.
