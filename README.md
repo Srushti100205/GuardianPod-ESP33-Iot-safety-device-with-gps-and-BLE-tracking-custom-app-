@@ -35,5 +35,9 @@ An ESP32-based real-time safety device designed for child and pet monitoring usi
 - Geofencing alerts
 - Battery optimization
   
+•Device Setup
+![Device Setup](Screenshot_2026-04-04-18-15-27.jpg)
+
+  
 • Description
 This project enables real-time location tracking and alert generation. The system uses BLE for short-range communication and Wi-Fi for cloud updates, ensuring efficient and low-latency monitoring.
