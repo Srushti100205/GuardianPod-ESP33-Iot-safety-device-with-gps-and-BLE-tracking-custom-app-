@@ -34,10 +34,17 @@ An ESP32-based real-time safety device designed for child and pet monitoring usi
 •Future Scope
 - Geofencing alerts
 - Battery optimization
-  
-•Device Setup
-![Device Setup](Screenshot_2026-04-04-18-15-27-14_99c04817c0de5652397fc8b56c3b3817.jpg)
+- 
+•Device Setup & Working
 
+### Hardware Setup
+![Hardware Setup]( Screenshot_2026-04-04-18-15-27-14_99c04817c0de5652397fc8b56c3b3817.jpg))(
+
+### Circuit / Connections
+![Circuit](PASTE_IMAGE_NAME_2_HERE)
+
+### Output / Working
+![Output](PASTE_IMAGE_NAME_3_HERE)
   
 • Description
 This project enables real-time location tracking and alert generation. The system uses BLE for short-range communication and Wi-Fi for cloud updates, ensuring efficient and low-latency monitoring.
